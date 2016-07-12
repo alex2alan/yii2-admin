@@ -51,7 +51,7 @@ return [
     ...
     'aliases' => [
         '@alex2alan/admin' => 'path/to/your/extracted',
-        // for example: '@mdm/admin' => '@app/extensions/alex2alan/yii2-admin-2.0.0',
+        // for example: '@alex2alan/admin' => '@app/extensions/alex2alan/yii2-admin-2.0.0',
         ...
     ]
 ];
