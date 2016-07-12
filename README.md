@@ -36,7 +36,7 @@ php composer.phar require alex2alan/yii2-admin "2.x-dev"
 然后，添加
 
 ```
-"mdmsoft/yii2-admin": "~2.0"
+"alex2alan/yii2-admin": "~2.0"
 ```
 
 到您的 `composer.json`文件并执行`php composer.phar update`语句.
@@ -50,7 +50,7 @@ php composer.phar require alex2alan/yii2-admin "2.x-dev"
 return [
     ...
     'aliases' => [
-        '@mdm/admin' => 'path/to/your/extracted',
+        '@alex2alan/admin' => 'path/to/your/extracted',
         // for example: '@mdm/admin' => '@app/extensions/alex2alan/yii2-admin-2.0.0',
         ...
     ]
