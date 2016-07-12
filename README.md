@@ -11,7 +11,6 @@ YII2 RABC (Role Base Access Control)图形化管理系统. 轻松管理您的用
 - [使用方法](docs/guide/basic-usage.md).
 - [用户管理](docs/guide/user-management.md).
 - [菜单管理](docs/guide/using-menu.md).
-- [Api](https://mdmsoft.github.io/yii2-admin/index.html).
 
 安装
 ----
@@ -60,4 +59,3 @@ return [
 
 [**更多...**](docs/guide/configuration.md)
 
-[screenshots](https://goo.gl/r8RizT)
